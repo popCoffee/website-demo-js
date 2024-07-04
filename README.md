@@ -1,5 +1,5 @@
 # website-demo-js
-*website demo js*
+*website demo js with React.js*
 
 This project was an internal demo of a page to run local inventory tracking with a common themed layout.
 
