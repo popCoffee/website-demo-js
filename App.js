@@ -23,6 +23,7 @@ function App() {
   return (
     <div className="App">
       <MainNavigation />
+      <NavigationLayout />
       <div className="main">
         <Switch>
           <Route path="/" component={HomePage} exact />
